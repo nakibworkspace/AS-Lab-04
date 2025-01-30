@@ -1,10 +1,10 @@
 # MLlib(Machine Learning with Spark)
 
-Created: January 28, 2025 7:01 PM
+
 
 Spark also introduces us a library that is used to handle Machine Learning Models. In this lab, we are going to explore MLlib.
 
-Table of Contents
+# Table of Contents
 
 1. What is MLlib?
 2. Components of MLlib
